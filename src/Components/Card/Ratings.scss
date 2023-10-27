@@ -1,0 +1,16 @@
+.ratings-container{
+    width: 40px;
+    padding: 4px;
+    height: 20px;
+    display: flex;
+    color: white;
+    border-radius: 10px;
+    justify-content: space-around;
+    background-color: rgb(36, 150, 63);
+
+    img{
+        width: 15px;
+        height: 15px;
+    }
+
+}
